@@ -1,3 +1,3 @@
-# Volleyball-Exp
-Personal Volleyball Website
+# Tutorial for Git  
+Personal Website
 
